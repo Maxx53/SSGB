@@ -1,6 +1,10 @@
 # SSGB
+======
+
+### Warning: Since [Steam gift system was changed](https://steamcommunity.com/games/593110/announcements/detail/1301948399254001159) and gifts are no longer bought, this code represents only historical value.
+
 Steam Store Gift Buyer - tool for automatic buying gifts from Steam Store.
 
-Read this https://github.com/Maxx53/SCMBot/issues/355
+Demo video https://www.youtube.com/watch?v=lsNIPgHJz-g
 
-![SSGB screen](https://dl.dropboxusercontent.com/u/1288526/ssgbscr.png)
+![SSGB screen](http://images.illuzor.com/uploads/ssgbscr.png)
